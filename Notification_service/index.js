@@ -1,6 +1,6 @@
 import express from 'express'
 const app =  express()
-const port =  3007
+const port =  process.env.port
 import dotenv from "dotenv";
 import { startConsumer } from './consumer.js';
 dotenv.config()
