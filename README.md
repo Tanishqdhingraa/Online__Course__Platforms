@@ -71,15 +71,6 @@ Each service:
 
 ---
 
- 🎨 UI Features
-
-* Modern dark-themed responsive navbar
-* Company introduction banner
-* Horizontal profile identity section
-* Clean dashboard layout
-* Professional color contrast using Tailwind
-
----
 
 🔒 Security Features
 
